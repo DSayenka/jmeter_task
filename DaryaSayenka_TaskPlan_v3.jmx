@@ -30,27 +30,27 @@
           </elementProp>
           <elementProp name="MIN_TIME" elementType="Argument">
             <stringProp name="Argument.name">MIN_TIME</stringProp>
-            <stringProp name="Argument.value">1000</stringProp>
+            <stringProp name="Argument.value">2000</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="MAX_TIME" elementType="Argument">
             <stringProp name="Argument.name">MAX_TIME</stringProp>
-            <stringProp name="Argument.value">2000</stringProp>
+            <stringProp name="Argument.value">6000</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="USERS" elementType="Argument">
             <stringProp name="Argument.name">USERS</stringProp>
-            <stringProp name="Argument.value">10</stringProp>
+            <stringProp name="Argument.value">5</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="LOOP_COUNT" elementType="Argument">
             <stringProp name="Argument.name">LOOP_COUNT</stringProp>
-            <stringProp name="Argument.value">10</stringProp>
+            <stringProp name="Argument.value">1</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="RAMP_UP_PERIOD" elementType="Argument">
             <stringProp name="Argument.name">RAMP_UP_PERIOD</stringProp>
-            <stringProp name="Argument.value">10</stringProp>
+            <stringProp name="Argument.value">600</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
         </collectionProp>
